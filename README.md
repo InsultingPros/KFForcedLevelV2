@@ -10,6 +10,11 @@ Changes to original:
 - Faster `tick()`.
 - Added `GetDescriptionText()` to prevent log spam.
 
+Configuragtion:
+
+- `ForceTo` - the target perk level.
+- `ForceWay` - how to force the levels. Available variants are `Min`, `Max`, `Only`.
+
 ## Installation
 
 ```bash
